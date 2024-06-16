@@ -1,0 +1,8 @@
+[package]
+name = "game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bracket-lib = "0.8.2"
+lazy_static = "1.4.0"
